@@ -1,4 +1,4 @@
-![logo](https://github.com/bhambhuvikas7376/bhambhuvikas7376/blob/main/Black%20Liquid%20Minimalist%20Daily%20Quotes%20LinkedIn%20Banner%20(1).png)
+![logo](https://github.com/bhambhuvikas7376/bhambhuvikas7376/blob/main/GithubBanner.png)
 
 <h1 align="center">Hi 👋, I'm Vikas Bhambhu</h1>
 <h3 align="center">A passionate Software Developer Engineer from India</h3>
